@@ -1,6 +1,6 @@
 # Linux Custom Resolution (LCR)
 
-Aplicativo gráfico para criar e gerenciar resoluções personalizadas de monitor no Linux, sem precisar do terminal.
+Gerencie e crie resoluções personalizadas para o seu monitor no Linux através de uma interface gráfica simples, sem tocar no terminal.
 
 ![Janela principal](https://raw.githubusercontent.com/rogerio-mattos/lcr/main/data/screenshots/main-window.png)
 
