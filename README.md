@@ -97,3 +97,9 @@ lcr
 ## Licença
 
 MIT — [LICENSE](LICENSE)
+
+Copyright (c) 2026 Rogério Mattos
+
+### Créditos de terceiros
+
+O cálculo de timings CVT usa código derivado de [`cvt12.c`](third_party/cvt12.c), baseado em trabalho de Andy Ritger (NVIDIA) e modificações de Kevin Lekiller. Esse componente é distribuído sob termos BSD (retenção de copyright e aviso de licença).
