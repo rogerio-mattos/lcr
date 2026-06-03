@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Linux Custom Resolution
-Comment=Resolucoes personalizadas de monitor (xrandr)
+Comment=Custom display resolutions made easy
+Comment[pt]=Resoluções personalizadas de forma rápida e gráfica
+Comment[pt_BR]=Resoluções personalizadas de forma rápida e gráfica
 Exec=lcr
 Icon=com.linuxcustomresolution.LCR
 Terminal=false

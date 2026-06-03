@@ -4,11 +4,11 @@
 
   <name>Linux Custom Resolution</name>
   <name xml:lang="pt">Linux Custom Resolution</name>
-  <name xml:lang="pt_BR">Linux Custom Resolution</name>
+  <name xml:lang="pt-BR">Linux Custom Resolution</name>
 
   <summary>Custom display resolutions made easy</summary>
-  <summary xml:lang="pt">Resoluções personalizadas de forma rápida e gráfica</summary>
-  <summary xml:lang="pt_BR">Resoluções personalizadas de forma rápida e gráfica</summary>
+  <summary xml:lang="pt">Resolu&#231;&#245;es personalizadas de forma r&#225;pida e gr&#225;fica</summary>
+  <summary xml:lang="pt-BR">Resolu&#231;&#245;es personalizadas de forma r&#225;pida e gr&#225;fica</summary>
 
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>MIT</project_license>
@@ -28,7 +28,7 @@
       tela personalizadas com poucos cliques. Utiliza xrandr e cvt em sessões X11
       e XWayland.
     </p>
-    <p xml:lang="pt_BR">
+    <p xml:lang="pt-BR">
       Linux Custom Resolution (LCR) permite criar, salvar e aplicar resoluções de
       tela personalizadas com poucos cliques. Utiliza xrandr e cvt em sessões X11
       e XWayland.
@@ -36,20 +36,20 @@
 
     <p>Features:</p>
     <p xml:lang="pt">Recursos:</p>
-    <p xml:lang="pt_BR">Recursos:</p>
+    <p xml:lang="pt-BR">Recursos:</p>
     <ul>
       <li>Lists connected monitors and shows the active resolution</li>
       <li xml:lang="pt">Lista monitores conectados e mostra a resolução ativa</li>
-      <li xml:lang="pt_BR">Lista monitores conectados e mostra a resolução ativa</li>
+      <li xml:lang="pt-BR">Lista monitores conectados e mostra a resolução ativa</li>
       <li>Supported resolutions viewer for TVs and multi-monitor setups</li>
       <li xml:lang="pt">Visualizador de resoluções suportadas para TVs e multi-monitor</li>
-      <li xml:lang="pt_BR">Visualizador de resoluções suportadas para TVs e multi-monitor</li>
+      <li xml:lang="pt-BR">Visualizador de resoluções suportadas para TVs e multi-monitor</li>
       <li>Save profiles per monitor and optionally apply on login</li>
       <li xml:lang="pt">Salva perfis por monitor e pode aplicar ao iniciar sessão</li>
-      <li xml:lang="pt_BR">Salva perfis por monitor e pode aplicar ao iniciar sessão</li>
+      <li xml:lang="pt-BR">Salva perfis por monitor e pode aplicar ao iniciar sessão</li>
       <li>12 interface languages</li>
       <li xml:lang="pt">12 idiomas na interface</li>
-      <li xml:lang="pt_BR">12 idiomas na interface</li>
+      <li xml:lang="pt-BR">12 idiomas na interface</li>
     </ul>
 
     <p>
@@ -58,7 +58,7 @@
     <p xml:lang="pt">
       Distribuído como Flatpak. Requer xrandr instalado no sistema.
     </p>
-    <p xml:lang="pt_BR">
+    <p xml:lang="pt-BR">
       Distribuído como Flatpak. Requer xrandr instalado no sistema.
     </p>
   </description>
@@ -73,13 +73,13 @@
     <screenshot type="default">
       <caption xml:lang="en">Main window — create and apply custom resolutions</caption>
       <caption xml:lang="pt">Janela principal — criar e aplicar resoluções personalizadas</caption>
-      <caption xml:lang="pt_BR">Janela principal — criar e aplicar resoluções personalizadas</caption>
+      <caption xml:lang="pt-BR">Janela principal — criar e aplicar resoluções personalizadas</caption>
       <image type="source" width="1536" height="1024">https://raw.githubusercontent.com/rogerio-mattos/lcr/main/data/screenshots/main-window.png</image>
     </screenshot>
     <screenshot>
       <caption xml:lang="en">Supported resolutions reported by xrandr</caption>
       <caption xml:lang="pt">Resoluções suportadas reportadas pelo xrandr</caption>
-      <caption xml:lang="pt_BR">Resoluções suportadas reportadas pelo xrandr</caption>
+      <caption xml:lang="pt-BR">Resoluções suportadas reportadas pelo xrandr</caption>
       <image type="source" width="1536" height="1024">https://raw.githubusercontent.com/rogerio-mattos/lcr/main/data/screenshots/supported-modes.png</image>
     </screenshot>
   </screenshots>
@@ -89,17 +89,17 @@
       <description>
         <p>Initial release.</p>
         <p xml:lang="pt">Lançamento inicial.</p>
-        <p xml:lang="pt_BR">Lançamento inicial.</p>
+        <p xml:lang="pt-BR">Lançamento inicial.</p>
         <ul>
           <li>Custom resolutions via xrandr + cvt</li>
           <li xml:lang="pt">Resoluções personalizadas via xrandr + cvt</li>
-          <li xml:lang="pt_BR">Resoluções personalizadas via xrandr + cvt</li>
+          <li xml:lang="pt-BR">Resoluções personalizadas via xrandr + cvt</li>
           <li>Per-monitor saved profiles and login autostart</li>
           <li xml:lang="pt">Perfis salvos por monitor e autostart no login</li>
-          <li xml:lang="pt_BR">Perfis salvos por monitor e autostart no login</li>
+          <li xml:lang="pt-BR">Perfis salvos por monitor e autostart no login</li>
           <li>Supported resolutions dialog for TVs and HDMI displays</li>
           <li xml:lang="pt">Diálogo de resoluções suportadas para TVs e HDMI</li>
-          <li xml:lang="pt_BR">Diálogo de resoluções suportadas para TVs e HDMI</li>
+          <li xml:lang="pt-BR">Diálogo de resoluções suportadas para TVs e HDMI</li>
         </ul>
       </description>
     </release>

@@ -14,10 +14,10 @@ msgid "Refresh monitors"
 msgstr "重新整理顯示器"
 
 msgid "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
-msgstr "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+msgstr "偵測到 Wayland 工作階段。LCR 使用 xrandr (X11)，在 X11 工作階段或合成器提供 XWayland 時效果最佳。"
 
 msgid "xrandr is not available. Install xorg-xrandr on your system."
-msgstr "xrandr is not available. Install xorg-xrandr on your system."
+msgstr "xrandr 無法使用。請在系統上安裝 xorg-xrandr。"
 
 msgid "New Resolution"
 msgstr "新增解析度"
@@ -62,22 +62,22 @@ msgid "Select a valid monitor."
 msgstr "請選擇有效的顯示器。"
 
 msgid "Resolution {details} added and applied."
-msgstr "Resolution {details} added and applied."
+msgstr "解析度 {details} 已新增並套用。"
 
 msgid "Resolution {details} added to the system."
-msgstr "Resolution {details} added to the system."
+msgstr "解析度 {details} 已新增至系統。"
 
 msgid "Resolution {details} applied."
-msgstr "Resolution {details} applied."
+msgstr "解析度 {details} 已套用。"
 
 msgid "Resolution not found."
-msgstr "Resolution not found."
+msgstr "找不到解析度。"
 
 msgid "Removed from profile, but xrandr failed: {error}"
-msgstr "Removed from profile, but xrandr failed: {error}"
+msgstr "已從設定檔移除，但 xrandr 失敗：{error}"
 
 msgid "Removed {details}."
-msgstr "Removed {details}."
+msgstr "已移除 {details}。"
 
 msgid "Applied on startup"
 msgstr "啟動時套用"
@@ -158,7 +158,7 @@ msgid "Apply when the computer starts"
 msgstr "電腦啟動時套用"
 
 msgid "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
-msgstr "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+msgstr "啟用後，登入或重新啟動後將自動選取此解析度。停用後仍保留在清單中，由您自行選擇何時使用。"
 
 msgid "Save Changes"
 msgstr "儲存變更"
@@ -170,13 +170,13 @@ msgid "Cancel"
 msgstr "取消"
 
 msgid "Failed to update resolution: {error}"
-msgstr "Failed to update resolution: {error}"
+msgstr "更新解析度失敗：{error}"
 
 msgid "Resolution {details} updated and applied."
-msgstr "Resolution {details} updated and applied."
+msgstr "解析度 {details} 已更新並套用。"
 
 msgid "Resolution {details} updated."
-msgstr "Resolution {details} updated."
+msgstr "解析度 {details} 已更新。"
 
 msgid "Resolution already saved"
 msgstr "解析度已儲存"

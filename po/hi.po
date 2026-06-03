@@ -14,10 +14,10 @@ msgid "Refresh monitors"
 msgstr "मॉनिटर रीफ़्रेश करें"
 
 msgid "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
-msgstr "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+msgstr "Wayland सत्र मिला। LCR xrandr (X11) उपयोग करता है और X11 सत्र या जब कम्पोज़र XWayland देता है तब सबसे अच्छा काम करता है।"
 
 msgid "xrandr is not available. Install xorg-xrandr on your system."
-msgstr "xrandr is not available. Install xorg-xrandr on your system."
+msgstr "xrandr उपलब्ध नहीं है। अपने सिस्टम पर xorg-xrandr इंस्टॉल करें।"
 
 msgid "New Resolution"
 msgstr "नया रिज़ॉल्यूशन"
@@ -62,22 +62,22 @@ msgid "Select a valid monitor."
 msgstr "एक वैध मॉनिटर चुनें।"
 
 msgid "Resolution {details} added and applied."
-msgstr "Resolution {details} added and applied."
+msgstr "रिज़ॉल्यूशन {details} जोड़ा और लागू किया गया।"
 
 msgid "Resolution {details} added to the system."
-msgstr "Resolution {details} added to the system."
+msgstr "रिज़ॉल्यूशन {details} सिस्टम में जोड़ा गया।"
 
 msgid "Resolution {details} applied."
-msgstr "Resolution {details} applied."
+msgstr "रिज़ॉल्यूशन {details} लागू किया गया।"
 
 msgid "Resolution not found."
-msgstr "Resolution not found."
+msgstr "रिज़ॉल्यूशन नहीं मिला।"
 
 msgid "Removed from profile, but xrandr failed: {error}"
-msgstr "Removed from profile, but xrandr failed: {error}"
+msgstr "प्रोफ़ाइल से हटाया, लेकिन xrandr विफल: {error}"
 
 msgid "Removed {details}."
-msgstr "Removed {details}."
+msgstr "{details} हटाया गया।"
 
 msgid "Applied on startup"
 msgstr "स्टार्टअप पर लागू"
@@ -158,7 +158,7 @@ msgid "Apply when the computer starts"
 msgstr "कंप्यूटर शुरू होने पर लागू करें"
 
 msgid "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
-msgstr "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+msgstr "सक्षम होने पर, लॉगिन या पुनरारंभ के बाद यह रिज़ॉल्यूशन स्वचालित रूप से चुना जाता है। अक्षम होने पर, यह सहेजा रहता है और आप उपयोग का समय चुनते हैं।"
 
 msgid "Save Changes"
 msgstr "परिवर्तन सहेजें"
@@ -170,13 +170,13 @@ msgid "Cancel"
 msgstr "रद्द करें"
 
 msgid "Failed to update resolution: {error}"
-msgstr "Failed to update resolution: {error}"
+msgstr "रिज़ॉल्यूशन अपडेट विफल: {error}"
 
 msgid "Resolution {details} updated and applied."
-msgstr "Resolution {details} updated and applied."
+msgstr "रिज़ॉल्यूशन {details} अपडेट और लागू किया गया।"
 
 msgid "Resolution {details} updated."
-msgstr "Resolution {details} updated."
+msgstr "रिज़ॉल्यूशन {details} अपडेट किया गया।"
 
 msgid "Resolution already saved"
 msgstr "रिज़ॉल्यूशन पहले से सहेजा है"

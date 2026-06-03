@@ -14,10 +14,10 @@ msgid "Refresh monitors"
 msgstr "تحديث الشاشات"
 
 msgid "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
-msgstr "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+msgstr "تم اكتشاف جلسة Wayland. يستخدم LCR أداة xrandr (X11) ويعمل بشكل أفضل في جلسات X11 أو عندما يوفّر المُجمِّع XWayland."
 
 msgid "xrandr is not available. Install xorg-xrandr on your system."
-msgstr "xrandr is not available. Install xorg-xrandr on your system."
+msgstr "xrandr غير متاح. ثبّت الحزمة xorg-xrandr على نظامك."
 
 msgid "New Resolution"
 msgstr "دقة جديدة"
@@ -62,22 +62,22 @@ msgid "Select a valid monitor."
 msgstr "اختر شاشة صالحة."
 
 msgid "Resolution {details} added and applied."
-msgstr "Resolution {details} added and applied."
+msgstr "تمت إضافة الدقة {details} وتطبيقها."
 
 msgid "Resolution {details} added to the system."
-msgstr "Resolution {details} added to the system."
+msgstr "تمت إضافة الدقة {details} إلى النظام."
 
 msgid "Resolution {details} applied."
-msgstr "Resolution {details} applied."
+msgstr "تم تطبيق الدقة {details}."
 
 msgid "Resolution not found."
-msgstr "Resolution not found."
+msgstr "الدقة غير موجودة."
 
 msgid "Removed from profile, but xrandr failed: {error}"
-msgstr "Removed from profile, but xrandr failed: {error}"
+msgstr "أُزيلت من الملف الشخصي، لكن xrandr فشل: {error}"
 
 msgid "Removed {details}."
-msgstr "Removed {details}."
+msgstr "تمت إزالة {details}."
 
 msgid "Applied on startup"
 msgstr "تُطبَّق عند بدء التشغيل"
@@ -158,7 +158,7 @@ msgid "Apply when the computer starts"
 msgstr "تطبيق عند بدء تشغيل الحاسوب"
 
 msgid "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
-msgstr "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+msgstr "إذا كان مفعّلاً، تُختار هذه الدقة تلقائياً بعد تسجيل الدخول أو إعادة التشغيل. إذا كان معطّلاً، تبقى محفوظة وتختار متى تستخدمها."
 
 msgid "Save Changes"
 msgstr "حفظ التغييرات"
@@ -170,13 +170,13 @@ msgid "Cancel"
 msgstr "إلغاء"
 
 msgid "Failed to update resolution: {error}"
-msgstr "Failed to update resolution: {error}"
+msgstr "فشل تحديث الدقة: {error}"
 
 msgid "Resolution {details} updated and applied."
-msgstr "Resolution {details} updated and applied."
+msgstr "تم تحديث الدقة {details} وتطبيقها."
 
 msgid "Resolution {details} updated."
-msgstr "Resolution {details} updated."
+msgstr "تم تحديث الدقة {details}."
 
 msgid "Resolution already saved"
 msgstr "الدقة محفوظة بالفعل"

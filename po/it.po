@@ -14,10 +14,10 @@ msgid "Refresh monitors"
 msgstr "Aggiorna monitor"
 
 msgid "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
-msgstr "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+msgstr "Sessione Wayland rilevata. LCR usa xrandr (X11) e funziona meglio in sessioni X11 o quando il compositor espone XWayland."
 
 msgid "xrandr is not available. Install xorg-xrandr on your system."
-msgstr "xrandr is not available. Install xorg-xrandr on your system."
+msgstr "xrandr non è disponibile. Installa xorg-xrandr sul sistema."
 
 msgid "New Resolution"
 msgstr "Nuova risoluzione"
@@ -62,22 +62,22 @@ msgid "Select a valid monitor."
 msgstr "Seleziona un monitor valido."
 
 msgid "Resolution {details} added and applied."
-msgstr "Resolution {details} added and applied."
+msgstr "Risoluzione {details} aggiunta e applicata."
 
 msgid "Resolution {details} added to the system."
-msgstr "Resolution {details} added to the system."
+msgstr "Risoluzione {details} aggiunta al sistema."
 
 msgid "Resolution {details} applied."
-msgstr "Resolution {details} applied."
+msgstr "Risoluzione {details} applicata."
 
 msgid "Resolution not found."
-msgstr "Resolution not found."
+msgstr "Risoluzione non trovata."
 
 msgid "Removed from profile, but xrandr failed: {error}"
-msgstr "Removed from profile, but xrandr failed: {error}"
+msgstr "Rimossa dal profilo, ma xrandr non è riuscito: {error}"
 
 msgid "Removed {details}."
-msgstr "Removed {details}."
+msgstr "Risoluzione {details} rimossa."
 
 msgid "Applied on startup"
 msgstr "Applicata all'avvio"
@@ -158,7 +158,7 @@ msgid "Apply when the computer starts"
 msgstr "Applica all'avvio del computer"
 
 msgid "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
-msgstr "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+msgstr "Se abilitata, questa risoluzione viene selezionata automaticamente dopo l'accesso o il riavvio. Se disabilitata, resta salvata e scegli tu quando usarla."
 
 msgid "Save Changes"
 msgstr "Salva modifiche"
@@ -170,13 +170,13 @@ msgid "Cancel"
 msgstr "Annulla"
 
 msgid "Failed to update resolution: {error}"
-msgstr "Failed to update resolution: {error}"
+msgstr "Impossibile aggiornare la risoluzione: {error}"
 
 msgid "Resolution {details} updated and applied."
-msgstr "Resolution {details} updated and applied."
+msgstr "Risoluzione {details} aggiornata e applicata."
 
 msgid "Resolution {details} updated."
-msgstr "Resolution {details} updated."
+msgstr "Risoluzione {details} aggiornata."
 
 msgid "Resolution already saved"
 msgstr "Risoluzione già salvata"

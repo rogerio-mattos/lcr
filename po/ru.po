@@ -14,10 +14,10 @@ msgid "Refresh monitors"
 msgstr "Обновить мониторы"
 
 msgid "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
-msgstr "Wayland session detected. LCR uses xrandr (X11) and works best on X11 sessions or when the compositor exposes XWayland."
+msgstr "Обнаружена сессия Wayland. LCR использует xrandr (X11) и лучше всего работает в сессиях X11 или когда композитор предоставляет XWayland."
 
 msgid "xrandr is not available. Install xorg-xrandr on your system."
-msgstr "xrandr is not available. Install xorg-xrandr on your system."
+msgstr "xrandr недоступен. Установите пакет xorg-xrandr в системе."
 
 msgid "New Resolution"
 msgstr "Новое разрешение"
@@ -62,22 +62,22 @@ msgid "Select a valid monitor."
 msgstr "Выберите действительный монитор."
 
 msgid "Resolution {details} added and applied."
-msgstr "Resolution {details} added and applied."
+msgstr "Разрешение {details} добавлено и применено."
 
 msgid "Resolution {details} added to the system."
-msgstr "Resolution {details} added to the system."
+msgstr "Разрешение {details} добавлено в систему."
 
 msgid "Resolution {details} applied."
-msgstr "Resolution {details} applied."
+msgstr "Разрешение {details} применено."
 
 msgid "Resolution not found."
-msgstr "Resolution not found."
+msgstr "Разрешение не найдено."
 
 msgid "Removed from profile, but xrandr failed: {error}"
-msgstr "Removed from profile, but xrandr failed: {error}"
+msgstr "Удалено из профиля, но xrandr завершился с ошибкой: {error}"
 
 msgid "Removed {details}."
-msgstr "Removed {details}."
+msgstr "Разрешение {details} удалено."
 
 msgid "Applied on startup"
 msgstr "Применяется при запуске"
@@ -158,7 +158,7 @@ msgid "Apply when the computer starts"
 msgstr "Применять при запуске компьютера"
 
 msgid "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
-msgstr "If enabled, this resolution is selected automatically after you log in or restart. If disabled, it remains saved and you choose when to use it."
+msgstr "Если включено, это разрешение выбирается автоматически после входа или перезагрузки. Если выключено, оно остаётся сохранённым, и вы сами выбираете, когда его использовать."
 
 msgid "Save Changes"
 msgstr "Сохранить изменения"
@@ -170,13 +170,13 @@ msgid "Cancel"
 msgstr "Отмена"
 
 msgid "Failed to update resolution: {error}"
-msgstr "Failed to update resolution: {error}"
+msgstr "Не удалось обновить разрешение: {error}"
 
 msgid "Resolution {details} updated and applied."
-msgstr "Resolution {details} updated and applied."
+msgstr "Разрешение {details} обновлено и применено."
 
 msgid "Resolution {details} updated."
-msgstr "Resolution {details} updated."
+msgstr "Разрешение {details} обновлено."
 
 msgid "Resolution already saved"
 msgstr "Разрешение уже сохранено"
@@ -191,7 +191,7 @@ msgid "Another saved resolution already uses these settings."
 msgstr "Другая сохранённая конфигурация уже использует эти параметры."
 
 msgid "OK"
-msgstr "OK"
+msgstr "ОК"
 
 msgid "xrandr is not available."
 msgstr "xrandr недоступен."
